@@ -26,3 +26,5 @@ Create a pie chart for Project vs reimbursement amount
 ## Data Transformation: Implemented a custom rule to fill missing currency values, converted USD & EURO to INR, and crafted a dynamic measure to calculate total reimbursed amounts. Delved deeper to derive insights on Project_B and tracked declined requests.
 
 ## Dashboard Creation: Crafted an interactive experience with a slicer visual for projects and employees. Visualized employee reimbursement amounts through a compelling bar chart and presented a clear overview of project vs. reimbursement amounts with a pie chart.
+
+![Alt text](Capture2.PNG)
