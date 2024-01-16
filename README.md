@@ -27,4 +27,5 @@ Create a pie chart for Project vs reimbursement amount
 
 ## Dashboard Creation: Crafted an interactive experience with a slicer visual for projects and employees. Visualized employee reimbursement amounts through a compelling bar chart and presented a clear overview of project vs. reimbursement amounts with a pie chart.
 
-![Alt text](Capture2.PNG)
+![Capture2](https://github.com/subhadipchatterjee2023/Employee_Reimbursement_Report_PowerBI/assets/128350160/2568c620-77f0-49ac-9f6a-baaa9867eeb9)
+
